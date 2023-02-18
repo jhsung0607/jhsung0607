@@ -14,7 +14,7 @@
 		<img src="https://img.shields.io/badge/-devlog-brightgreen" />
 	</a>
 	<a href="mailto:jhsung0607@naver.com">
-		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Mail.Ru&logoColor=white"/>
+		<img src="https://img.shields.io/badge/jhsung0607@naver.com-EA4335?style=flat&logo=Mail.Ru&logoColor=white"/>
 	</a>
   	<a href="https://github.com/jhsung0607"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsung0607&count_bg=%232F2F2F&title_bg=%232F2F2F&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 </p>
