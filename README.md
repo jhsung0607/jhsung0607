@@ -1,16 +1,43 @@
-### Hi there 👋
+<div align=center>
+	<h1> ✨ Jonghee's GitHub ✨ </h1>
+</div>
 
-<!--
-**jhsung0607/jhsung0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>
+    안녕하세요👐 <br>
+    데이터사이언스 공부 중인 성 종 희라고 합니다. <br>
+    데이터 엔지니어 및 백엔드 개발자로 일한 경험이 있습니다.<br>
+    🎓 서울과학기술대학교 산업정보시스템공학과, 컴퓨터공학과 졸업
+</p>
 
-Here are some ideas to get you started:
+<p align=center>
+	<a href="https://blog.naver.com/jhsung0607">
+		<img src="https://img.shields.io/badge/-devlog-brightgreen" />
+	</a>
+	<a href="mailto:jhsung0607@naver.com">
+		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Mail.Ru&logoColor=white"/>
+	</a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsung0607&count_bg=%232F2F2F&title_bg=%232F2F2F&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+    <Strong> ⚒️ Tech Stack ⚒️ </Strong><br>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/MySQL-db8904?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-EA4335?style=flat&logo=Conda-Forge&logoColor=white" />
+</p>
+
+<br>
+
+<div align="center">
+  
+![Jonghee's github stats](https://github-readme-stats.vercel.app/api?username=jhsung0607&theme=rose_pine&show_icons=true)
+  
+</div>
