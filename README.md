@@ -27,11 +27,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/MySQL-db8904?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-db8904?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-EA4335?style=flat&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Conda-Forge&logoColor=white" />
 </p>
 
 <br>
