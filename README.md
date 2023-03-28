@@ -39,6 +39,5 @@
 
 <div align="center">
   
-![Jonghee's github stats](https://github-readme-stats.vercel.app/api?username=jhsung0607&theme=rose_pine&show_icons=true)
   
 </div>
