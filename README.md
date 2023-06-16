@@ -12,7 +12,7 @@
 </p>
 
 <p align=center>
-	<a href="https://blog.naver.com/jhsung0607">
+	<a href="https://blog.naver.com/zoxxny">
 		<img src="https://img.shields.io/badge/-devlog-brightgreen" />
 	</a>
 	<a href="mailto:jhsung0607@naver.com">
